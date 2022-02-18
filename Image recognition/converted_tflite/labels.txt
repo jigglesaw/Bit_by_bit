@@ -1,0 +1,11 @@
+0 Shirt
+1 Shoe
+2 Crop top
+3 Shorts
+4 pants
+5 jeans
+6 T shirt
+7 Cardigan
+8 Hoodie
+9 Frock
+10 Sweater
